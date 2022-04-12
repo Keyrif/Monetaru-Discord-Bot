@@ -1,0 +1,18 @@
+[
+	{
+		"question": "In ce locatie vrei sa minezi? \n`Mina Seickavil`, `Pestera Buburuzei`, `Peretele Pestatic Vioar`",
+		"answers": ["mina seickavil", "pestera buburuzei", "peretele pestatic vioar"]
+	},
+  	{
+		"question": "In ce locatie vrei sa minezi? \n`Mina Romaniei`, `Cascada Bigar`, `Pestera Neagra`",
+		"answers": ["mina romaniei", "cascada bigar", "pestera neagra"]
+	},
+  {
+		"question": "In ce locatie vrei sa minezi? \n`Pestera Buburuzei`, `Cascada Bigar`, `Mina Seickavil`",
+		"answers": ["pestera buburuzei", "cascada bigar", "mina seickavil"]
+	},
+  {
+		"question": "In ce locatie vrei sa minezi? \n`Peretele Diaz`, `Peretele Pestatic Vioar`, `Mina Seickavil`",
+		"answers": ["peretele diaz", "peretele pestatic vioar", "mina seickavil"]
+	}
+]
