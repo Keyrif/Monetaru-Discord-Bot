@@ -1,0 +1,50 @@
+[
+	{
+		"question": "In ce an a fost razboiul din 1824?",
+		"answers": ["1824"]
+	},
+  {
+		"question": "Calculeaza aceasta ecuatie: `51 * 23 = ?`",
+		"answers": ["1173"]
+	},
+  {
+		"question": "Calculeaza aceasta ecuatie: `43 - 4712 = ?`",
+		"answers": ["-4669"]
+	},
+  {
+		"question": "Calculeaza aceasta ecuatie: `35 + 7 = ?`",
+		"answers": ["42"]
+	},
+  {
+		"question": "Daca Ana are 5 mere, si Ovidiu ii fura 4 mere...cate mere are Ana acum?",
+		"answers": ["1"]
+	},
+  {
+		"question": "**Adevarat/Fals**: Presedintele Romaniei la momentul actual este Traian Dragnea.",
+		"answers": ["Fals"]
+	},
+  {
+		"question": "**Adevarat/Fals**: Comunismul in Romania s-a prabusit in anul 1989.",
+		"answers": ["Adevarat"]
+	},
+  {
+		"question": "Ce culoare are o haina verde?",
+		"answers": ["verde"]
+	},
+  {
+		"question": "Calculeaza aceasta ecuatie: `264 - 43 * 58 = ?`",
+		"answers": ["12818"]
+	},
+  {
+		"question": "Ghiceste cuvantul: `MAS__A`",
+		"answers": ["masina"]
+	},
+	{
+		"question": "Ghiceste cuvantul: `FRU__S`",
+		"answers": ["frumos"]
+	},
+	{
+		"question": "Ghiceste cuvantul: `AN_M_L`",
+		"answers": ["animal"]
+	}
+]
