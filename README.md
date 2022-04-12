@@ -1,2 +1,19 @@
 # Monetaru-Discord-Bot
-MONETARU Discord Bot is a fun discord bot that features an economy system linked with MongoDB. Also it has a Safety&amp;Moderation system which restrict users to send fake scammy links but you can wishlist members. You will be notified on a separate self-channel.
+- MONETARU Discord Bot is a fun discord bot that features:
+
+  - **Economy System**
+    - Using MongoDB
+  - **Jobs and MiniGames**
+    - Linked with the economy
+    - Supported languages: Romanian
+  - **Anti Scam Link System** which restrict users to send scam & phishing links.
+    - You can whitelist users
+    - Warning on a separate self-made channel
+  - **Ranks** (Azterix)
+    - Linked with the economy
+  - **Text Spoofing** 
+    - Easy formatting for spoofing text on Discord using a bug
+
+**Available and online at https://monetaru.xyz**
+- I worked on this project since 2020 when I had free time and I released it as an open-source project in 2022. It is made with Discord.JS 12.
+- More features to come.
