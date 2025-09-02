@@ -14,6 +14,5 @@
   - **Text Spoofing** 
     - Easy formatting for spoofing text on Discord using a bug
 
-**Available and online at https://monetaru.xyz**
 - I worked on this project since 2020 when I had free time and I released it as an open-source project in 2022. It is made with Discord.JS 12.
 - More features to come.
