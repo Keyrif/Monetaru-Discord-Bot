@@ -1,7 +1,3 @@
-//
-//  (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSLY!
-//
-
 const prefix = process.env.PREFIX;
 
 module.exports = (client, aliases, callback) => {

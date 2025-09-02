@@ -1,6 +1,3 @@
-//
-//    (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSLY!
-//
 const Discord = require('discord.js')
 const economy = require('../../economy')
 const client = new Discord.Client()

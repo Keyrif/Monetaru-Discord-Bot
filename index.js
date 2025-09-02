@@ -5,11 +5,7 @@
 //    |_|\_\_| \_\_|   /_/\_\
 //                      
 //                       
-//    MADE BY KEYRIF USING PURE TALENT.
-//
-//
-//    (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSLY!
-//
+//    MADE BY KEYRIF
 //
 
 const punish = require('./punish.json');
@@ -89,10 +85,10 @@ client.on('message', async message => {
 			return
 		}
 		message.guild.channels.create('monetaru', { //Create a channel
-			type: 'text', //Make
+			type: 'text', 
 			permissionOverwrites: [
 				{
-					id: message.guild.roles.everyone, //To make it be seen by a certain role, user an ID instead
+					id: message.guild.roles.everyone, 
 					deny: ['VIEW_CHANNEL', 'SEND_MESSAGES', 'READ_MESSAGE_HISTORY'] //Deny permissions
 				},
 				{

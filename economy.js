@@ -1,7 +1,3 @@
-//
-//  (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSY!
-//
-
 const mongo = require('./mongo')
 const profileSchema = require('./schemas/profile-schema')
 

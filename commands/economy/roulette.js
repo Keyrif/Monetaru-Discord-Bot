@@ -1,5 +1,3 @@
-// (!) THIS IS A TEST, ALPHA COMMAND THAT I NEVER FINISHED IT, I DO NOT RECOMMEND TO USE IT BUT GO AHEAD IF YOU REALLY WANT!
-
 const discord = require('discord.js')
 const Discord = require('discord.js')
 const client = new Discord.Client()
