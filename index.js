@@ -1,12 +1,5 @@
-//     _  ______  _______  __
-//    | |/ /  _ \|  ___\ \/ /
-//    | ' /| |_) | |_   \  / 
-//    | . \|  _ <|  _|  /  \ 
-//    |_|\_\_| \_\_|   /_/\_\
-//                      
-//                       
-//    MADE BY KEYRIF
-//
+//  (!) MADE BY KEYRIF, MADE THIS IN 2020-2022, DEPRECATED ON NEWER VERSIONS, STILL WORKS WITH D.JS 12
+//  (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSLY!
 
 const punish = require('./punish.json');
 const path = require('path')
