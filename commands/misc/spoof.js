@@ -1,3 +1,5 @@
+//  (!) MADE THIS IN 2020-2022, DEPRECATED ON NEWER VERSIONS, STILL WORKS WITH D.JS 12
+//  (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSLY!
 const { MessageEmbed } = require('discord.js');
 const mongoose = require('mongoose');
 const Guild = require('../../guild');
