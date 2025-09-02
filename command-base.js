@@ -1,6 +1,5 @@
-//  (!) MADE BY KEYRIF, MADE THIS IN 2020-2022, DEPRECATED ON NEWER VERSIONS, STILL WORKS WITH D.JS 12
+//  (!) MADE THIS IN 2020-2022, DEPRECATED ON NEWER VERSIONS, STILL WORKS WITH D.JS 12
 //  (!) THIS CODE SAW MANY CHANGES SO THERE CAN BE SOME JUNK LEFT HERE AND THERE. SORRY! NOTHING IS FATAL THOUGH, EVERYTHING IS WORKING FLAWLESSLY!
-
 const mongo = require('./mongo')
 const commandPrefixSchema = require('./schemas/command-prefix-schema')
 const { prefix: globalPrefix } = require('./config.json')
